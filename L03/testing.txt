@@ -1,0 +1,52 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Jayprakash Pathak
+ID:      169018920
+Email:   path8920@mylaurier.ca
+Version: 2022-09-27
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+'Twinkle Twinkle Little Star' by Jane Taylor
+
+Twinkle, twinkle, little star,
+    How I wonder what you are!
+        Up above the world so high,
+        Like a diamond in the sky.
+Twinkle, twinkle, little star,
+    How I wonder what you are!
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter minimum: 38
+Enter maximum: 452
+The difference between 452 and 38 is 414
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+Enter amount of dirt (m^3): 55.5
+Enter amount of gravel (m^3): 30.6
+Enter amount of sand (m^3): 112.8
+
+Material   Cubic Metres
+Dirt        55.5
+Gravel      30.6
+Sand       112.8
+Total      198.9
+-------------------------------------------------------
+t14
+-------------------------------------------------------
+Enter number of minutes: 3369
+There are 2 days, 8 hours, and 9 minutes in 3369 minutes
+-------------------------------------------------------
+t15
+-------------------------------------------------------
+654321
+654321.000000
+654.320000
+Hello World
+-------------------------------------------------------
