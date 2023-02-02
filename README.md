@@ -1,6 +1,6 @@
 # CP104
 
-Repo for all my Labs and Assignments for CP104 CS Class at Wilfrid Laurier University.
+CP104 - Intro to Programming. Some of my course work for CP104 - Intro to Programming Course at Wilfrid Laurier University.
 
 L - Labs
 
